@@ -1,0 +1,15 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "Quasar App",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000
+    },
+    "StatusBar": {
+      "overlaysWebView": false,
+      "style": "LIGHT",
+      "backgroundColor": "#ffffffff"
+    }
+  }
+}
